@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+מטבח שטח מתקפל ייחודי שמותקן על דלת האחורית של הג&#39;יפ שלכם. פתרון מושלם לבישול בשטח עם כל האביזרים הדרושים. תכננו את ההרפתקה הבאה!
+
+### מוצר
+https://example.com/product
+שולחן מטבח חזק ומתקפל המותקן לדלת האחורית של הג&#39;יפ, כולל משטחי עבודה, אחסון חכם ואביזרים מקצועיים. עמידות מקסימלית לכל תנאי שטח.
+
+### התאמה והתקנה
+https://example.com/fitment
+מדריך התאמה מפורט להתקנת המטבח המתקפל על הג&#39;יפ שלכם. תואם לכל דגמי הג&#39;יפ, התקנה מהירה ללא קידוח. בדקו את ההתאמה לרכב שלכם עכשיו!
+
+### צור קשר
+https://example.com/contact
+יש לכם שאלות? רוצים להזמין או לקבל ייעוץ מקצועי? צוות המומחים שלנו כאן כדי לעזור לכם להתאים את המטבח השטח האידיאלי לג&#39;יפ שלכם. צרו קשר היום!
+
+### Products
+https://example.com/products
+המוצרים שלנו - מטבח מתקפל לג'יפ
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - מטבח מתקפל לג'יפ
+
+### Category
+https://example.com/category/:slug
+מוצרים - מטבח מתקפל לג'יפ
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
